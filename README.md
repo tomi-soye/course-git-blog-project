@@ -14,6 +14,7 @@ I used this as a practice as well. I am glad i was explore github with it's comm
 
 * clone the project
 * open the index file in a browser
+It involves me practising. I just had to tweek it a bit.
 
 ## Creators
 
