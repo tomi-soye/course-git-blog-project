@@ -10,6 +10,9 @@ I used this as a practice as well. I am glad i was explore github with it's comm
 * [Instructions](#instructions)
 * [Creator](#creators)
 
+
+This me doing this all over again. Making changes to the README.md file
+
 ## Instructions
 
 * clone the project
