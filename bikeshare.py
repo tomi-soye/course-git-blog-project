@@ -9,7 +9,6 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'washington': 'washington.csv' }
 
 #Months to be analysed
-# HAAA HAAA; here is the months to be analysed.
 MONTH_DATA = { 'january' or 'jan': 1,
                 'february' or 'feb': 2,
                 'march' or 'mar': 3,
